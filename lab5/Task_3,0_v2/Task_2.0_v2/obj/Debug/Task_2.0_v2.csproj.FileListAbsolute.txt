@@ -18,3 +18,14 @@ E:\3 Курс\Univer\Защита информации\2_sem\Task_3,0_v2\Task_2.
 E:\3 Курс\Univer\Защита информации\2_sem\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.csproj.GenerateResource.cache
 E:\3 Курс\Univer\Защита информации\2_sem\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.exe
 E:\3 Курс\Univer\Защита информации\2_sem\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.pdb
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.csprojAssemblyReference.cache
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2._0_v2.Form1.resources
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2._0_v2.Form2.resources
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2._0_v2.Properties.Resources.resources
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.csproj.GenerateResource.cache
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.csproj.CoreCompileInputs.cache
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.exe
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\obj\Debug\Task_2.0_v2.pdb
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\bin\Debug\Task_2.0_v2.exe.config
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\bin\Debug\Task_2.0_v2.exe
+D:\Education\Crypt\Labs\Cryptography\lab5\Task_3,0_v2\Task_2.0_v2\bin\Debug\Task_2.0_v2.pdb

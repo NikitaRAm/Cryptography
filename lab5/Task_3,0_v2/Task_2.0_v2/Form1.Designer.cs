@@ -113,7 +113,7 @@
             this.radioButton1.Size = new System.Drawing.Size(154, 17);
             this.radioButton1.TabIndex = 7;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Route permutation (snake)";
+            this.radioButton1.Text = "Route permutation (Zigzag)";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // radioButton2

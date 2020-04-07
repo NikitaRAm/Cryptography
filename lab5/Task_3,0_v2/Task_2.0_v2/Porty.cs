@@ -8,7 +8,7 @@ namespace Task_2._0_v2
 {
     class Porty
     {
-        const string defaultAlphabet = "AÄBCDEFGHIJKLMNOÖPQRSßTUÜVWXYZ.,?!-()«»:;+/0123456789";
+        const string defaultAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.,?!-()«»:;+/0123456789";
         string[,] portyTable = new string[defaultAlphabet.Length, defaultAlphabet.Length];
 
         public string encrypt(string str)

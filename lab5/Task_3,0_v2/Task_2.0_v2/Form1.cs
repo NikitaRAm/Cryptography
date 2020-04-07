@@ -15,7 +15,7 @@ namespace Task_2._0_v2
      
         RouteSwap routeSwap = new RouteSwap();
         Miulty miulty = new Miulty();
-        string passwordVigener = "urevich";
+        string passwordVigener = "romanovich";
         Chart chart = new Chart();
         public Form1()
         {
@@ -29,7 +29,7 @@ namespace Task_2._0_v2
         {
             if (radioButton1.Checked)
             {
-               richTextBox2.Text = routeSwap.Snake(richTextBox1.Text, 3);
+               richTextBox2.Text = routeSwap.Zigzag(richTextBox1.Text, 3);
                chart.setEncrypt(richTextBox2.Text);
             }
             else

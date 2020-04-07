@@ -9,7 +9,7 @@ namespace Task_2._0_v2
     class Vigener
     {
 
-        const string defaultAlphabet = "AÄBCDEFGHIJKLMNOÖPQRSßTUÜVWXYZ";
+        const string defaultAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         readonly string letters;
 
         public Vigener(string alphabet = null)

@@ -9,7 +9,7 @@ namespace Task_2._0_v2
 {
     public class RouteSwap
     {
-        public string Snake(string message, int columnCount)
+        public string Zigzag(string message, int columnCount)
         {
             
             for (; ; )

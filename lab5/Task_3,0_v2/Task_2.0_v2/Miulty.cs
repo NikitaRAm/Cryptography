@@ -8,11 +8,11 @@ namespace Task_2._0_v2
 {
     public class Miulty
     {
-        const string defaultAlphabet = "AÄBCDEFGHIJKLMNOÖPQRSßTUÜVWXYZ.,?!-()«»:;+/0123456789";
+        const string defaultAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.,?!-()«»:;+/0123456789";
         public string encrypt(string str)
         {
-            string key1 = "UREVICH";
-            string key2 = "SERGIO";
+            string key1 = "ROMANOV";
+            string key2 = "NIKITA";
             string str2 = "";
             char[,] mass = new char[7, 6];
             char[,] massSort = new char[7, 6];
