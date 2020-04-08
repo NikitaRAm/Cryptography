@@ -1,0 +1,13 @@
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.exe
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.deps.json
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.runtimeconfig.json
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.runtimeconfig.dev.json
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.dll
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.pdb
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.csprojAssemblyReference.cache
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.csproj.CoreCompileInputs.cache
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.AssemblyInfoInputs.cache
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.AssemblyInfo.cs
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.dll
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.pdb
+D:\Education\Crypt\Labs\Cryptography\lab6\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.genruntimeconfig.cache
