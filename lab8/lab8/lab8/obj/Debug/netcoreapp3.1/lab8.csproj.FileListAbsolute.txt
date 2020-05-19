@@ -1,0 +1,13 @@
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.exe
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.deps.json
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.json
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.dev.json
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.dll
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.pdb
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csprojAssemblyReference.cache
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.CoreCompileInputs.cache
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfoInputs.cache
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfo.cs
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.dll
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.pdb
+E:\Education\Crypt\Labs\Cryptography\lab8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.genruntimeconfig.cache

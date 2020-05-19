@@ -1,0 +1,6 @@
+D:\Учеба\6 sem\КМЗИ\Laba7\TwoFish\TwoFish\bin\Debug\TwoFish.exe.config
+D:\Учеба\6 sem\КМЗИ\Laba7\TwoFish\TwoFish\bin\Debug\TwoFish.exe
+D:\Учеба\6 sem\КМЗИ\Laba7\TwoFish\TwoFish\bin\Debug\TwoFish.pdb
+D:\Учеба\6 sem\КМЗИ\Laba7\TwoFish\TwoFish\obj\Debug\TwoFish.csprojAssemblyReference.cache
+D:\Учеба\6 sem\КМЗИ\Laba7\TwoFish\TwoFish\obj\Debug\TwoFish.exe
+D:\Учеба\6 sem\КМЗИ\Laba7\TwoFish\TwoFish\obj\Debug\TwoFish.pdb
