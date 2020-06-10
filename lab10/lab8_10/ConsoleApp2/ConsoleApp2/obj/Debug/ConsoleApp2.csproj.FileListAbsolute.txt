@@ -1,0 +1,7 @@
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Education\Crypt\Labs\Cryptography\lab10\lab8_10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
